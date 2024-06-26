@@ -1,0 +1,421 @@
+,Institution Name,City,State,Zip Code,Type,Latitude,Longitude,Number of Undergraduate Students,Average Cost for Academic Year Institution,Average Cost for Program Year Institution,Tuition Fee for In-District Students,Tuition Fee for Out-of-State Students,Admission Rate
+3091,Abilene Christian University,Abilene,TX,79699,2,32.468943,-99.709797,3141.0,55221.0,,40500.0,40500.0,0.6579
+3092,Alvin Community College,Alvin,TX,77511-4898,1,29.396244,-95.240671,3151.0,11551.0,,1706.0,4010.0,
+3093,Amarillo College,Amarillo,TX,79109,1,35.187839,-101.846988,7271.0,10912.0,,2136.0,4704.0,
+3094,Amberton University,Garland,TX,75041-5595,2,32.859931,-96.65302,114.0,,,,,
+3095,Angelina College,Lufkin,TX,75902-1768,1,31.287444,-94.731625,2453.0,13973.0,,3120.0,6150.0,
+3096,Angelo State University,San Angelo,TX,76909,1,31.440914,-100.465051,5314.0,21174.0,,8186.0,17978.0,0.7914
+3097,Arlington Baptist University,Arlington,TX,76012-3425,2,32.739489,-97.156024,216.0,26940.0,,17480.0,17480.0,
+3098,Arlington Career Institute,Grand Prairie,TX,75050-2636,3,32.77244,-97.052772,375.0,,28152.0,,,
+3099,The Art Institute of Houston,Houston,TX,77027-9625,3,29.73025,-95.445766,317.0,40128.0,,20794.0,20794.0,
+3100,Austin College,Sherman,TX,75090-4400,2,33.646345,-96.596331,1166.0,57746.0,,44950.0,44950.0,0.5437
+3101,Austin Community College District,Austin,TX,78752,1,30.322744,-97.712505,25332.0,11382.0,,2550.0,10590.0,
+3102,Austin Presbyterian Theological Seminary,Austin,TX,78705-5711,2,30.29201,-97.736958,,,,,,
+3103,Baldwin Beauty School-South Austin,Austin,TX,78704-4785,3,30.241662,-97.783062,44.0,,19904.0,,,
+3104,Baptist Health System School of Health Professions,San Antonio,TX,78229,3,29.517063,-98.567486,457.0,,,,,
+3105,Baptist Missionary Association Theological Seminary,Jacksonville,TX,75766-5407,2,31.978961,-95.255524,53.0,,,8850.0,8850.0,0.7
+3106,Baylor College of Medicine,Houston,TX,77030-3498,2,29.7106,-95.395743,,,,,,
+3107,Baylor University,Waco,TX,76798,2,31.546872,-97.121041,15134.0,68535.0,,51738.0,51738.0,0.4588
+3108,Coastal Bend College,Beeville,TX,78102,1,28.435194,-97.755896,2236.0,11282.0,,2658.0,4968.0,
+3109,Blinn College District,Brenham,TX,77833-4098,1,30.160457,-96.40852,15721.0,19080.0,,4460.0,10940.0,
+3110,Remington College-Dallas Campus,Dallas,TX,75243,2,32.912428,-96.733735,302.0,29495.0,,23365.0,23365.0,
+3111,Vet Tech Institute of Houston,Houston,TX,77027,3,29.728907,-95.455533,175.0,19550.0,,15240.0,15240.0,0.6857
+3112,Brazosport College,Lake Jackson,TX,77566,1,29.048604,-95.40934,2898.0,9244.0,,2411.0,4748.0,
+3113,Central Texas College,Killeen,TX,76549-4199,1,31.120516,-97.810827,4818.0,11726.0,,3000.0,7500.0,
+3114,Charles and Sues School of Hair Design,Bryan,TX,77802,3,30.6528,-96.340102,22.0,,24110.0,,,
+3115,Cisco College,Cisco,TX,76437,1,32.401132,-98.985206,2797.0,14946.0,,4110.0,5310.0,
+3116,Clarendon College,Clarendon,TX,79226,1,34.944558,-100.902421,1319.0,14182.0,,3720.0,5400.0,
+3117,Concordia University Texas,Austin,TX,78726,2,30.420232,-97.835703,1571.0,49494.0,,35620.0,35620.0,0.8574
+3118,BK Cosmo College of Cosmetology,Kerrville,TX,78028-4312,3,30.055075,-99.15037,38.0,,22519.0,,,
+3119,North Central Texas College,Gainesville,TX,76240-4699,1,33.6188,-97.1658,5457.0,10027.0,,2520.0,7200.0,
+3120,Texas A & M University-Corpus Christi,Corpus Christi,TX,78412-5503,1,27.713723,-97.32395,7818.0,23200.0,,9748.0,20745.0,0.8797
+3121,Paul Mitchell the School-Dallas,Carrollton,TX,75006,3,32.973328,-96.843526,275.0,,26226.0,,,
+3122,Dallas Baptist University,Dallas,TX,75211-9299,2,32.710017,-96.947006,2674.0,46367.0,,35310.0,35310.0,0.9137
+3123,Dallas Christian College,Dallas,TX,75234-7299,2,32.913692,-96.887117,245.0,34925.0,,20580.0,20580.0,0.5
+3124,Dallas Institute of Funeral Service,Dallas,TX,75227-4314,2,32.771368,-96.683404,776.0,20670.0,,13200.0,13200.0,
+3125,Dallas Theological Seminary,Dallas,TX,75204,2,32.795361,-96.780497,,,,,,
+3126,University of Dallas,Irving,TX,75062-4736,2,32.846221,-96.919512,1446.0,63310.0,,48000.0,48000.0,0.587
+3127,Del Mar College,Corpus Christi,TX,78404-3897,1,27.763619,-97.40762,9104.0,11899.0,,3380.0,5990.0,
+3128,East Texas Baptist University,Marshall,TX,75670-1498,2,32.557847,-94.374488,1324.0,40625.0,,28910.0,28910.0,0.677
+3129,Texas A&M University-Texarkana,Texarkana,TX,75503,1,33.490482,-94.103617,1758.0,21204.0,,7930.0,20659.0,0.9148
+3130,Texas A & M University-Commerce,Commerce,TX,75429-3011,1,33.242112,-95.904579,7317.0,22475.0,,10026.0,22266.0,0.8645
+3131,Dallas College,Dallas,TX,75215-3604,1,32.766319,-96.794036,34709.0,9595.0,,2370.0,6000.0,
+3132,El Paso Community College,El Paso,TX,79925-6507,1,31.773359,-106.373616,24129.0,12929.0,,3274.0,5314.0,
+3133,Western Technical College,El Paso,TX,79924,3,31.877794,-106.425881,608.0,,23227.0,,,
+3134,Western Technical College,El Paso,TX,79927,3,31.675953,-106.319269,1328.0,,,,,
+3135,Episcopal Theological Seminary of the Southwest,Austin,TX,78705,2,30.293092,-97.732652,,,,,,
+3136,Exposito School of Hair Design,Amarillo,TX,79109-3208,3,35.183578,-101.881271,28.0,,21003.0,,,
+3137,Miami International University of Art & Design-Art Institute Dallas,Dallas,TX,75231-5993,3,32.871008,-96.767823,263.0,40240.0,,20794.0,20794.0,
+3138,Fort Worth Beauty School,Benbrook,TX,76116,3,32.82338,-97.420695,72.0,,21429.0,,,
+3139,Frank Phillips College,Borger,TX,79008-5118,1,35.657778,-101.406005,726.0,11560.0,,3712.0,4882.0,
+3140,Galveston College,Galveston,TX,77550-7496,1,29.284735,-94.807686,1522.0,13305.0,,2546.0,5726.0,
+3141,Graham's Barber College,DALLAS,TX,75215-1701,3,32.774017,-96.76832,11.0,,,,,
+3142,Grayson College,Denison,TX,75020-8299,1,33.70574,-96.633891,2707.0,11377.0,,2872.0,5692.0,
+3143,Hallmark University,San Antonio,TX,78251,2,29.466862,-98.685754,792.0,,17432.0,,,0.5289
+3144,Hardin-Simmons University,Abilene,TX,79698-0001,2,32.476434,-99.73564,1323.0,45285.0,,31686.0,31686.0,0.8825
+3145,Trinity Valley Community College,Athens,TX,75751,1,32.196596,-95.858513,4591.0,12892.0,,2640.0,5970.0,
+3146,Hill College,Hillsboro,TX,76645,1,32.010928,-97.088332,1925.0,14431.0,,3570.0,4720.0,
+3147,Houston Baptist University,Houston,TX,77074-3298,2,29.693819,-95.515954,2814.0,46360.0,,36750.0,36750.0,0.8448
+3148,University of Houston-Clear Lake,Houston,TX,77058-1002,1,29.582523,-95.098129,6343.0,28856.0,,7698.0,20994.0,0.6937
+3149,Houston Community College,Houston,TX,77002,1,29.742114,-95.377319,37871.0,12002.0,,2040.0,5460.0,
+3150,University of Houston-Downtown,Houston,TX,77002-1014,1,29.7661,-95.359338,12752.0,23217.0,,7708.0,17524.0,0.8842
+3151,University of Houston-Victoria,Victoria,TX,77901,1,28.816248,-96.976334,2699.0,21218.0,,7149.0,16941.0,0.8213
+3152,University of Houston,Houston,TX,77204-2018,1,29.720393,-95.343537,37080.0,24130.0,,9699.0,21891.0,0.6624
+3153,Howard College,Big Spring,TX,79720,1,32.252292,-101.450104,1652.0,13419.0,,2720.0,5730.0,
+3154,Howard Payne University,Brownwood,TX,76801-2794,2,31.716467,-98.985204,721.0,42707.0,,31650.0,31650.0,0.6229
+3155,Huston-Tillotson University,Austin,TX,78702-2795,2,30.264667,-97.721691,991.0,25026.0,,14703.0,14703.0,0.5194
+3156,University of the Incarnate Word,San Antonio,TX,78209,2,29.46708,-98.46583,4547.0,45505.0,,34400.0,34400.0,0.942
+3157,Jacksonville College-Main Campus,Jacksonville,TX,75766-4759,2,31.965846,-95.281311,210.0,18410.0,,7150.0,7150.0,
+3158,Jarvis Christian University,Hawkins,TX,75765-1470,2,32.587942,-95.181513,729.0,25149.0,,11720.0,11720.0,
+3159,KD Conservatory College of Film and Dramatic Arts,Dallas,TX,75207,3,32.808265,-96.841975,102.0,29143.0,,16850.0,16850.0,0.8621
+3160,Kilgore College,Kilgore,TX,75662-3299,1,32.377821,-94.871468,3183.0,14445.0,,2160.0,5256.0,
+3161,Lamar University,Beaumont,TX,77705,1,30.042738,-94.072244,8075.0,21570.0,,8690.0,18482.0,0.8373
+3162,Lamar State College-Orange,Orange,TX,77630,1,30.0922,-93.732235,1446.0,7872.0,,2832.0,13824.0,
+3163,Lamar State College-Port Arthur,Port Arthur,TX,77640,1,29.880385,-93.925886,2567.0,9993.0,,1770.0,7890.0,
+3164,Laredo Beauty College Inc,Laredo,TX,78040,3,27.523791,-99.480788,122.0,,10330.0,,,
+3165,Laredo College,Laredo,TX,78040-4395,1,27.506477,-99.520772,7564.0,11257.0,,3300.0,5748.0,
+3166,Texas A & M International University,Laredo,TX,78041-1900,1,27.571172,-99.436043,6459.0,16313.0,,7846.0,19382.0,0.4788
+3167,Lee College,Baytown,TX,77520,1,29.732505,-94.978184,7726.0,12303.0,,2166.0,4302.0,
+3168,LeTourneau University,Longview,TX,75602,2,32.46632,-94.726394,1553.0,47233.0,,34470.0,34470.0,0.4883
+3169,Lincoln College of Technology-Grand Prairie,Grand Prairie,TX,75052,3,32.701684,-97.056391,1212.0,,38049.0,,,
+3170,Lubbock Christian University,Lubbock,TX,79407-2099,2,33.575973,-101.934426,1221.0,38261.0,,26300.0,26300.0,0.8159
+3171,College of the Mainland,Texas City,TX,77591-2499,1,29.39581,-94.999602,3161.0,7878.0,,1773.0,3873.0,
+3172,University of Mary Hardin-Baylor,Belton,TX,76513-2599,2,31.066793,-97.463471,3013.0,45330.0,,31950.0,31950.0,0.9567
+3173,McLennan Community College,Waco,TX,76708,1,31.58947,-97.171228,4979.0,12904.0,,3660.0,5910.0,
+3174,McMurry University,Abilene,TX,79697,2,32.429776,-99.748682,1092.0,42284.0,,30422.0,30422.0,0.565
+3175,Covenant School of Nursing and Allied Health,Lubbock,TX,79407,2,33.5757,-101.937872,336.0,,,,,
+3176,Midland College,Midland,TX,79705,1,32.029646,-102.106153,4737.0,13025.0,,2970.0,5880.0,
+3177,Midwestern State University,Wichita Falls,TX,76308-2099,1,33.874809,-98.519386,4421.0,21876.0,,10233.0,12183.0,0.9243
+3178,William Edge Institute,New Braunfels,TX,78130-8216,3,29.698282,-98.100952,39.0,,18652.0,,,
+3179,Wade College,Dallas,TX,75207,3,32.800854,-96.819516,157.0,24054.0,,17132.0,17132.0,
+3180,Southern Careers Institute-Austin,Austin,TX,78744,3,30.226743,-97.784318,1070.0,,25099.0,,,
+3181,Tint School of Makeup & Cosmetology,Irving,TX,75061-4235,3,32.829511,-96.983082,57.0,,21701.0,,,
+3182,Navarro College,Corsicana,TX,75110,1,32.076061,-96.498731,6277.0,16988.0,,2798.0,6368.0,
+3183,Lone Star College System,The Woodlands,TX,77381-4399,1,30.18737,-95.488103,47486.0,14800.0,,2880.0,8070.0,
+3184,University of North Texas,Denton,TX,76203-1277,1,33.211178,-97.148422,33023.0,24696.0,,11140.0,20932.0,0.7913
+3185,Northeast Texas Community College,Mount Pleasant,TX,75455,1,33.104931,-94.881855,1932.0,15775.0,,3149.0,6449.0,
+3186,Oblate School of Theology,San Antonio,TX,78216-6693,2,29.505434,-98.503113,,,,,,
+3187,Ocean Corporation,Houston,TX,77099,3,29.665467,-95.57034,176.0,,33018.0,,,
+3188,Odessa College,Odessa,TX,79764,1,31.866812,-102.383477,4296.0,12820.0,,2400.0,4566.0,
+3189,Ogle School Hair Skin Nails-Arlington,Arlington,TX,76013,3,32.720698,-97.140906,324.0,,23616.0,,,
+3190,Ogle School Hair Skin Nails-Ft Worth,Fort Worth,TX,76132-3638,3,32.681742,-97.417657,446.0,,22834.0,,,
+3191,Our Lady of the Lake University,San Antonio,TX,78207-4689,2,29.426194,-98.54365,1163.0,40626.0,,31124.0,31124.0,
+3192,The University of Texas Rio Grande Valley,Edinburg,TX,78539-2999,1,26.306759,-98.173567,26420.0,17988.0,,9538.0,19333.0,0.877
+3193,Texas Southmost College,Brownsville,TX,78520,1,25.899628,-97.492241,3644.0,11204.0,,3148.0,4948.0,
+3194,Panola College,Carthage,TX,75633-2397,1,32.156214,-94.356355,1489.0,13246.0,,2208.0,4896.0,
+3195,Paris Junior College,Paris,TX,75460,1,33.650929,-95.529177,2339.0,12659.0,,2520.0,5520.0,
+3196,Paul Quinn College,Dallas,TX,75241,2,32.678837,-96.755778,938.0,21678.0,,13798.0,13798.0,0.5728
+3197,Prairie View A & M University,Prairie View,TX,77446,1,30.092425,-95.989475,8103.0,25775.0,,11299.0,26874.0,0.7607
+3198,Ranger College,Ranger,TX,76470,1,32.456773,-98.685215,2104.0,13399.0,,4600.0,8350.0,
+3199,Aviation Institute of Maintenance-Houston,Houston,TX,77061,3,29.65852,-95.28262,250.0,25268.0,,16757.0,16757.0,
+3200,Rice University,Houston,TX,77005-1827,2,29.717897,-95.402035,4480.0,71745.0,,54960.0,54960.0,0.0868
+3201,Saint Edward's University,Austin,TX,78704-6489,2,30.229618,-97.754998,2751.0,63671.0,,50766.0,50766.0,0.851
+3202,St Philip's College,San Antonio,TX,78203-2098,1,29.41508,-98.453285,9344.0,12147.0,,3262.0,14272.0,
+3203,University of St Thomas,Houston,TX,77006-4696,2,29.736438,-95.393102,2524.0,42639.0,,32484.0,32484.0,0.9671
+3204,Sam Houston State University,Huntsville,TX,77340,1,30.714738,-95.546205,18184.0,23962.0,,8960.0,18752.0,0.8463
+3205,San Antonio College,San Antonio,TX,78212-3941,1,29.44634,-98.497647,15568.0,11834.0,,3262.0,14272.0,
+3206,San Jacinto Community College,Pasadena,TX,77505,1,29.660032,-95.114677,22790.0,14372.0,,1872.0,5040.0,
+3207,Schreiner University,Kerrville,TX,78028-5697,2,30.031458,-99.130586,1056.0,45167.0,,35614.0,35614.0,0.852
+3208,Seguin Beauty School-Seguin,Seguin,TX,78155,3,29.569142,-97.96436,50.0,,21885.0,,,
+3209,St. Mary's University,San Antonio,TX,78228,2,29.453244,-98.562778,1991.0,45724.0,,35226.0,35226.0,0.8622
+3210,South Plains College,Levelland,TX,79336,1,33.575904,-102.365075,6378.0,12207.0,,2601.0,4857.0,
+3211,South Texas Barber College Inc,Corpus Christi,TX,78415,3,27.754868,-97.417156,18.0,,20445.0,,,
+3212,South Texas College of Law Houston,Houston,TX,77002-7006,2,29.753171,-95.36455,,,,,,
+3213,South Texas Vocational Technical Institute-Weslaco,Weslaco,TX,78599,3,26.176606,-98.006077,409.0,,24470.0,,,
+3214,Miller-Motte College-STVT-McAllen,McAllen,TX,78503,3,26.188539,-98.238293,482.0,,21936.0,,,
+3215,Southern Methodist University,Dallas,TX,75275-0221,2,32.843612,-96.783365,7044.0,79885.0,,61980.0,61980.0,0.5225
+3216,Southwest School of Business and Technical Careers-San Antonio,San Antonio,TX,78221-0138,3,29.357965,-98.49583,18.0,,26887.0,,,
+3217,Southwest Texas Junior College,Uvalde,TX,78801-6297,1,29.219671,-99.741237,3099.0,13163.0,,2502.0,5886.0,
+3218,Southwestern Assemblies of God University,Waxahachie,TX,75165,2,32.40443,-96.853492,1435.0,31917.0,,17782.0,17782.0,0.8565
+3219,Southwestern University,Georgetown,TX,78626,2,30.634341,-97.665738,1480.0,61668.0,,48650.0,48650.0,0.4479
+3220,Stephen F Austin State University,Nacogdoches,TX,75961,1,31.621056,-94.64908,8961.0,24402.0,,10600.0,21616.0,0.8951
+3221,Texas State University,San Marcos,TX,78666,1,29.888885,-97.943029,33834.0,25797.0,,11135.0,22559.0,0.877
+3222,Southwestern Adventist University,Keene,TX,76059,2,32.397617,-97.32702,659.0,34060.0,,24060.0,24060.0,0.5362
+3223,Southwestern Christian College,Terrell,TX,75160-4812,2,32.735508,-96.285649,84.0,16554.0,,12030.0,12030.0,
+3224,Sul Ross State University,Alpine,TX,79832,1,30.363139,-103.651469,1495.0,22434.0,,7649.0,17441.0,0.9707
+3225,Tarleton State University,Stephenville,TX,76401-0000,1,32.217805,-98.219039,11880.0,22286.0,,7848.0,17640.0,0.8706
+3226,Tarrant County College District,Fort Worth,TX,76102,1,32.757362,-97.337149,38915.0,11554.0,,1728.0,8235.0,
+3227,Temple College,Temple,TX,76504-7435,1,31.070715,-97.350471,3198.0,10093.0,,2880.0,6576.0,
+3228,University of Texas Southwestern Medical Center,Dallas,TX,75390-9096,1,32.812307,-96.841156,,,,,,
+3229,The University of Texas Health Science Center at San Antonio,San Antonio,TX,78229-3900,1,29.508107,-98.575655,785.0,,,,,
+3230,The University of Texas Medical Branch at Galveston,Galveston,TX,77555-0129,1,29.310758,-94.775956,585.0,,,,,
+3231,Texarkana College,Texarkana,TX,75599,1,33.441868,-94.078,1635.0,12984.0,,2476.0,5332.0,
+3232,Texas A & M University-Kingsville,Kingsville,TX,78363,1,27.525168,-97.882387,4562.0,22081.0,,9892.0,25746.0,0.9655
+3233,Texas A & M University-College Station,College Station,TX,77843-1246,1,30.618726,-96.336475,56792.0,31451.0,,13239.0,40139.0,0.6265
+3234,The University of Texas at Arlington,Arlington,TX,76013,1,32.729718,-97.11296,30503.0,24530.0,,11727.0,29299.0,0.808
+3235,The University of Texas at Austin,Austin,TX,78705,1,30.282825,-97.738273,40980.0,29361.0,,11698.0,41070.0,0.3135
+3236,The University of Texas at Dallas,Richardson,TX,75080-3021,1,32.984673,-96.749702,21586.0,28456.0,,14564.0,39776.0,0.8474
+3237,The University of Texas at El Paso,El Paso,TX,79968-0691,1,31.77015,-106.504098,20123.0,19344.0,,9744.0,25152.0,0.9992
+3238,The University of Texas at Tyler,Tyler,TX,75799-6699,1,32.315772,-95.254337,6568.0,22535.0,,9855.0,25693.0,0.9387
+3239,Texas Chiropractic College Foundation Inc,Pasadena,TX,77505-1699,2,29.663702,-95.150135,,,,,,
+3240,Texas Christian University,Fort Worth,TX,76129,2,32.70961,-97.364758,10510.0,71425.0,,53980.0,53980.0,0.561
+3241,Texas College,Tyler,TX,75702,2,32.37456,-95.312454,642.0,21437.0,,10008.0,10008.0,
+3242,University of North Texas Health Science Center,Fort Worth,TX,76107-2699,1,32.749907,-97.369138,5.0,,,,,
+3243,Texas Lutheran University,Seguin,TX,78155-5999,2,29.573261,-97.982669,1307.0,45182.0,,33920.0,33920.0,0.9183
+3244,The University of Texas Permian Basin,Odessa,TX,79762-0001,1,31.889509,-102.329634,4060.0,22113.0,,9234.0,21474.0,0.9471
+3245,The University of Texas at San Antonio,San Antonio,TX,78249-1644,1,29.583709,-98.620657,29112.0,21660.0,,8945.0,21253.0,0.869
+3246,Texas Southern University,Houston,TX,77004,1,29.721046,-95.361113,6830.0,24679.0,,9173.0,21413.0,0.968
+3247,Texas Tech University,Lubbock,TX,79409-5005,1,33.583448,-101.874783,32346.0,27249.0,,11852.0,24122.0,0.6734
+3248,Texas Wesleyan University,Fort Worth,TX,76105-1536,2,32.732962,-97.279613,1549.0,43598.0,,36128.0,36128.0,0.6093
+3249,Texas Woman's University,Denton,TX,76204,1,33.226211,-97.127842,8876.0,20019.0,,8311.0,18103.0,0.9363
+3250,Trinity University,San Antonio,TX,78212-7200,2,29.462682,-98.48186,2491.0,63684.0,,49264.0,49264.0,0.3051
+3251,The University of Texas Health Science Center at Houston,Houston,TX,77030,1,29.702873,-95.403183,554.0,,,,,
+3252,Texas Tech University Health Sciences Center,Lubbock,TX,79430,1,33.589284,-101.891915,1448.0,,,,,
+3253,Tyler Junior College,Tyler,TX,75701,1,32.33601,-95.284122,9045.0,16240.0,,2962.0,5482.0,
+3254,Universal Technical Institute of Texas Inc.,Houston,TX,77073,3,29.990487,-95.412113,1845.0,,24601.0,,,
+3255,UCAS University of Cosmetology Arts & Sciences-McAllen,McAllen,TX,78504,3,26.279439,-98.21787,124.0,,18202.0,,,
+3256,Vernon College,Vernon,TX,76384-4092,1,34.159298,-99.319094,1937.0,13316.0,,4080.0,6480.0,
+3257,Victoria Beauty & Barber College,Victoria,TX,77901-6233,3,28.807928,-96.990854,94.0,,17475.0,,,
+3258,Victoria College,Victoria,TX,77901,1,28.816446,-96.979226,2346.0,10922.0,,2712.0,5112.0,
+3259,Vogue College of Cosmetology-McAllen,McAllen,TX,78501-1945,3,26.232656,-98.223022,305.0,,30130.0,,,
+3260,Wayland Baptist University,Plainview,TX,79072,2,34.187677,-101.730042,2138.0,34453.0,,22368.0,22368.0,0.6972
+3261,Weatherford College,Weatherford,TX,76086-5699,1,32.74133,-97.792629,3604.0,14900.0,,4020.0,8610.0,
+3262,West Texas A & M University,Canyon,TX,79016-0001,1,34.982789,-101.914736,6828.0,22672.0,,9101.0,10996.0,0.9163
+3263,Western Texas College,Snyder,TX,79549,1,32.678458,-100.914945,487.0,11535.0,,3030.0,5460.0,
+3264,Wharton County Junior College,Wharton,TX,77488,1,29.3238,-96.085815,4757.0,10303.0,,2520.0,5048.0,
+3265,Wiley College,Marshall,TX,75670,2,32.537641,-94.376814,698.0,20235.0,,13500.0,13500.0,
+3633,Parker University,Dallas,TX,75229-5668,2,32.880335,-96.893564,411.0,31277.0,,15718.0,15718.0,
+3657,Houston Graduate School of Theology,Houston,TX,77035-3602,2,29.673594,-95.448846,,,,,,
+3658,Palo Alto College,San Antonio,TX,78224-2499,1,29.322955,-98.543468,7756.0,10756.0,,3262.0,14272.0,
+3659,Sebring Career Schools-Huntsville,Huntsville,TX,77340,3,30.702549,-95.549878,15.0,,23160.0,,,
+3660,UCAS University of Cosmetology Arts & Sciences-San Antonio 410,San Antonio,TX,78201,3,29.493246,-98.551137,68.0,,21963.0,,,
+3661,Central Texas Beauty College-Round Rock,Round Rock,TX,78664-4604,3,30.520723,-97.685077,106.0,,12540.0,,,
+3675,Collin County Community College District,McKinney,TX,75069,1,33.16241,-96.63894,25111.0,13193.0,,1864.0,5614.0,
+3683,Ogle School Hair Skin Nails-Hurst,Hurst,TX,76053-4650,3,32.822035,-97.201403,227.0,,23076.0,,,
+3687,Paul Mitchell the School-Houston,Houston,TX,77043,3,29.785868,-95.559723,330.0,,22573.0,,,
+3758,Commonwealth Institute of Funeral Service,Houston,TX,77090-5918,2,29.989545,-95.430153,275.0,35230.0,,15313.0,15313.0,
+3780,Interactive College of Technology,Houston,TX,77063,3,29.734143,-95.539975,90.0,19325.0,,10730.0,10730.0,
+3793,Seguin Beauty School-New Braunfels,New Braunfels,TX,78130,3,29.70187,-98.125943,0.0,,21360.0,,,
+3807,Northwest Educational Center,Houston,TX,77092,3,29.813796,-95.473149,69.0,,16558.0,,,
+3808,PCI Health Training Center,Dallas,TX,75247-4720,3,32.82007,-96.876316,282.0,,22633.0,,,
+3858,Remington College-Fort Worth Campus,Fort Worth,TX,76112-1225,2,32.776152,-97.213702,181.0,29995.0,,19258.0,19258.0,
+3859,UCAS University of Cosmetology Arts & Sciences,San Antonio,TX,78214,3,29.354354,-98.484836,28.0,,,,,
+3860,School of Automotive Machinists & Technology,Houston,TX,77055-1803,3,29.805166,-95.476017,125.0,,30723.0,,,0.7705
+3861,Nuvani Institute,San Antonio,TX,78212-1901,3,29.457062,-98.498977,17.0,,24600.0,,,
+3862,Nuvani Institute,Eagle Pass,TX,78852-4859,3,28.707864,-100.506009,71.0,,24022.0,,,
+3863,Texas College of Cosmetology-Abilene,Abilene,TX,79605,3,32.448891,-99.747159,75.0,,21619.0,,,
+3880,College of Health Care Professions,Houston,TX,77054,3,29.678462,-95.420012,365.0,,31685.0,,,
+3881,Center for Advanced Legal Studies,Houston,TX,77042-1912,3,29.75302,-95.558831,218.0,,16859.0,,,
+3882,Houston Training School-Main Campus,Houston,TX,77029,3,29.77291,-95.24417,268.0,,11503.0,,,
+3892,Ogle School Hair Skin Nails-Dallas,Dallas,TX,75214-2389,3,32.836833,-96.754693,390.0,,23597.0,,,
+3901,Southwest College for the Deaf,Big Spring,TX,79720-7298,1,32.226498,-101.50294,54.0,14324.0,,2720.0,14000.0,
+3912,Central Texas Beauty College-Temple,Temple,TX,76504-6948,3,31.084871,-97.379234,134.0,,12265.0,,,
+3931,College of Biblical Studies-Houston,Houston,TX,77036-3211,2,29.716676,-95.506559,205.0,16729.0,,7475.0,9275.0,
+3936,The College of Health Care Professions-Northwest,Houston,TX,77092,3,29.836247,-95.485204,3201.0,,36625.0,,,
+3938,Fortis College,Houston,TX,77082,3,29.732861,-95.64832,258.0,,34707.0,,,
+3954,Tri-State Cosmetology Institute,El Paso,TX,79935,3,31.749969,-106.3372,146.0,,20788.0,,,
+3967,Southern Careers Institute-Corpus Christi,Corpus Christi,TX,78414,3,27.68504,-97.363145,470.0,,28423.0,,,
+3971,Galen College of Nursing-San Antonio,San Antonio,TX,78229,3,29.507685,-98.585653,3163.0,,,,,
+3994,UCAS University of Cosmetology Arts & Sciences-Harlingen,Harlingen,TX,78550-5034,3,26.20168,-97.684044,60.0,,21292.0,,,
+4000,Southern Careers Institute-Pharr,Pharr,TX,78577,3,26.211217,-98.201038,645.0,,28830.0,,,
+4008,South Texas College,McAllen,TX,78501,1,26.217591,-98.253634,17846.0,7764.0,,4230.0,7500.0,
+4032,Baldwin Beauty School-North Austin,Austin,TX,78757-7068,3,30.365855,-97.729371,105.0,,19281.0,,,
+4044,The University of Texas MD Anderson Cancer Center,Houston,TX,77030-4009,1,29.707016,-95.396804,337.0,,,,,
+4063,Messenger College,Bedford,TX,76021,2,32.85076,-97.161015,19.0,23025.0,,11040.0,11040.0,0.5
+4107,Pipo Academy of Hair Design,El Paso,TX,79903,3,31.78446,-106.459711,14.0,,10864.0,,,
+4108,Tint School of Makeup and Cosmetology-Dallas,Grand Prairie,TX,75051,3,32.708337,-97.001678,103.0,,23322.0,,,
+4121,Texas College of Cosmetology-San Angelo,San Angelo,TX,76904,3,31.420928,-100.47194,85.0,,21466.0,,,
+4133,Northwest Vista College,San Antonio,TX,78251,1,29.471308,-98.70513,12964.0,11019.0,,3262.0,14272.0,
+4139,Bakke Graduate University,Dallas,TX,75243-7039,2,32.894605,-96.753976,,,,,,
+4156,Mid Cities Barber College,Grand Prairie,TX,75051-4892,3,32.710329,-97.006955,32.0,,15628.0,,,
+4175,American College of Acupuncture and Oriental Med,Houston,TX,77063-4104,3,29.735747,-95.524765,,,,,,
+4176,AOMA Graduate School of Integrative Medicine,Austin,TX,78745,3,30.228551,-97.800643,,,,,,
+4180,Southern Careers Institute-San Antonio,San Antonio,TX,78221,3,29.355774,-98.494238,611.0,,27171.0,,,
+4186,Texas Health and Science University,Austin,TX,78704,3,30.233143,-97.785289,23.0,,,,,
+4201,International Beauty College,Garland,TX,75040-3294,3,32.945805,-96.645638,68.0,,18750.0,,,
+4207,CET-El Paso,El Paso,TX,79907,2,31.696199,-106.323115,72.0,,21925.0,,,
+4226,Academy of Hair Design-Lufkin,Lufkin,TX,75904,3,31.330724,-94.718704,82.0,,17194.0,,,
+4227,Pathway Vocational Academy,Beaumont,TX,77701-4650,3,30.067103,-94.122709,49.0,,22324.0,,,
+4254,Toni & Guy Hairdressing Academy-Plano,Plano,TX,75093,3,33.026159,-96.797544,113.0,,26242.0,,,
+4262,Advanced Barber College and Hair Design,Weslaco,TX,78596,3,26.131543,-97.958247,134.0,,26642.0,,,
+4263,The College of Health Care Professions-Austin,Austin,TX,78723,3,30.322978,-97.699064,697.0,,33631.0,,,
+4265,Chicago School of Professional Psychology-College of Nursing,Richardson,TX,75080,2,32.979753,-96.75721,65.0,,31930.0,,,0.2717
+4268,Milan Institute-San Antonio Ingram,San Antonio,TX,78238,3,29.463767,-98.624719,247.0,,29145.0,,,
+4295,The King's University,Southlake,TX,76092,2,32.93973,-97.121526,255.0,27335.0,,12720.0,12720.0,0.9375
+4320,Interactive College of Technology,Pasadena,TX,77502,3,29.690435,-95.213765,51.0,19821.0,,10610.0,10610.0,
+4324,Milan Institute-Amarillo,Amarillo,TX,79106,3,35.185278,-101.916984,154.0,,31632.0,,,
+4326,Texas Barber College,Houston,TX,77036,3,29.69036,-95.532975,444.0,,20682.0,,,
+4354,Concorde Career College-Grand Prairie,Grand Prairie,TX,75052-3831,3,32.675369,-97.05498,849.0,,29812.0,,,1.0
+4355,Lamar Institute of Technology,Beaumont,TX,77705,1,30.047885,-94.077126,2971.0,14150.0,,2844.0,12636.0,
+4356,Aviation Institute of Maintenance-Dallas,Irving,TX,75061,3,32.836068,-96.941822,406.0,28111.0,,16757.0,16757.0,
+4388,Dallas Barber & Stylist College,Dallas,TX,75243,3,32.909891,-96.737009,24.0,,23156.0,,,
+4395,Jay's Technical Institute,Houston,TX,77071,3,29.64877,-95.525281,52.0,,25478.0,,,
+4403,Trend Barber College,Houston,TX,77071-2202,3,29.65621,-95.522116,29.0,,19987.0,,,
+4404,Valley Grande Institute for Academic Studies,Weslaco,TX,78596,2,26.158256,-97.990391,229.0,,18418.0,,,
+4417,Interactive College of Technology,Houston,TX,77060-2303,3,29.945555,-95.403559,48.0,19112.0,,10610.0,10610.0,
+4440,Baptist University of the Americas,San Antonio,TX,78224-1443,2,29.342919,-98.541223,108.0,13183.0,,6768.0,6768.0,
+4448,Auguste Escoffier School of Culinary Arts-Austin,Austin,TX,78752,3,30.326455,-97.717865,437.0,,20061.0,,,
+4449,Culinary Institute Inc,Houston,TX,77022-4322,3,29.823623,-95.378633,336.0,33982.0,,17279.0,17279.0,
+4468,American InterContinental University-Houston,Houston,TX,77042,3,29.728216,-95.548302,122.0,24626.0,,14725.0,14725.0,
+4470,Remington College-North Houston Campus,Houston,TX,77067,2,29.946769,-95.424881,185.0,29173.0,,19518.0,19518.0,
+4476,Altierus Career College-Bissonnet,Houston,TX,77036-8001,2,29.677415,-95.544702,260.0,27840.0,,15822.0,15822.0,
+4530,Academy of Hair Design-Jasper,Jasper,TX,75951,3,30.908648,-94.004879,56.0,,16680.0,,,
+4533,The College of Health Care Professions-Southwest Houston,Houston,TX,77074,3,29.701897,-95.517146,714.0,,34166.0,,,
+4563,Texas Health School,Houston,TX,77079,3,29.783709,-95.586269,109.0,,34294.0,,,
+4586,The College of Health Care Professions-San Antonio,San Antonio,TX,78229,3,29.488876,-98.576627,660.0,,31119.0,,,
+4612,CCI Training Center-Arlington,Arlington,TX,76011,3,32.755006,-97.101289,187.0,,20782.0,,,
+4613,Champion Beauty College,Houston,TX,77068,3,29.99352,-95.489161,22.0,,19073.0,,,
+4614,Southeast Texas Career Institute,Silsbee,TX,77656,3,30.341896,-94.169885,71.0,,20076.0,,,
+4621,Milan Institute of Cosmetology-San Antonio Military,San Antonio,TX,78221,3,29.358241,-98.500738,164.0,,22680.0,,,
+4633,Brite Divinity School,Fort Worth,TX,76129,2,32.710145,-97.359137,,,,,,
+4646,Trend Barber College,Houston,TX,77090,3,29.982205,-95.435485,84.0,,21305.0,,,
+4683,Manuel and Theresa's School of Hair Design-Bryan,Bryan,TX,77803,3,30.667077,-96.370573,16.0,,16700.0,,,
+4684,Southwest University at El Paso,El Paso,TX,79925,3,31.788346,-106.413158,1596.0,24000.0,,16000.0,16000.0,
+4685,Paul Mitchell the School-Austin,Austin,TX,78759,3,30.386375,-97.740293,181.0,,26518.0,,,
+4689,Paul Mitchell the School-San Antonio,San Antonio,TX,78259,3,29.610611,-98.465779,292.0,,26612.0,,,
+4692,The Art Institute of Austin,Bastrop,TX,78602,3,30.110905,-97.313486,78.0,44078.0,,20794.0,20794.0,
+4693,Remington College-Houston Southeast Campus,Webster,TX,77598,2,29.52528,-95.123503,63.0,31964.0,,13401.0,13401.0,
+4764,Hands on Therapy,Mesquite,TX,75149,3,32.787719,-96.60627,50.0,,21713.0,,,
+4765,MediaTech Institute-Dallas,Dallas,TX,75234,3,32.92427,-96.902721,204.0,,24368.0,,,
+4766,Aveda Arts & Sciences Institute-San Antonio,San Antonio,TX,78259-2792,3,29.637354,-98.452126,225.0,,23292.0,,,
+4794,South Texas Training Center,San Benito,TX,78586,3,26.156604,-97.652989,160.0,14714.0,,12370.0,12370.0,
+4803,MediaTech Institute-Houston,Houston,TX,77042,3,29.724809,-95.568341,73.0,,24023.0,,,
+4805,Lamson Institute,San Antonio,TX,78238,3,29.481426,-98.607504,390.0,,28323.0,,,
+4820,South Texas Vocational Technical Institute-Brownsville,Brownsville,TX,78521,3,25.944046,-97.502052,247.0,,26257.0,,,
+4821,Miller-Motte College-STVT-Corpus Christi,Corpus Christi,TX,78416,3,27.739649,-97.433269,320.0,,26807.0,,,
+4884,Houston International College Cardiotech Ultrasound School,Houston,TX,77099,3,29.675203,-95.592909,41.0,25943.0,,11978.0,11978.0,1.0
+4885,DuVall's School of Cosmetology,Bedford,TX,76021,3,32.852275,-97.168105,90.0,,23403.0,,,
+4886,Texas Beauty College,Haltom city,TX,76117,3,32.826045,-97.265311,68.0,,9176.0,,,
+4887,Avenue Five Institute,Austin,TX,78757,3,30.369503,-97.728961,270.0,,28922.0,,,
+4888,The Salon Professional Academy-Lewisville,Lewisville,TX,75067,3,33.005024,-96.964907,120.0,,22626.0,,,
+4912,Strayer University-Texas,Farmers Branch,TX,75234,3,32.910744,-96.887509,2251.0,23985.0,,13515.0,13515.0,
+4913,The Art Institute of San Antonio,San Antonio,TX,78230,3,29.532925,-98.56556,180.0,39220.0,,20794.0,20794.0,
+4939,Peloton College,Dallas,TX,75206,3,32.861997,-96.769353,75.0,,20801.0,,,
+4940,ABC Beauty Academy,Richardson,TX,75081,3,32.931698,-96.685333,64.0,,13061.0,,,
+4941,Salon & Spa Institute,Brownsville,TX,78520-8809,3,25.938911,-97.508606,99.0,,35798.0,,,
+4951,Texas A&M University-San Antonio,San Antonio,TX,78224,1,29.304762,-98.52417,6404.0,22127.0,,9548.0,22764.0,0.9609
+4952,Fortis Institute,Houston,TX,77060,3,29.93744,-95.395051,295.0,,26127.0,,,
+4953,Southern Careers Institute-Brownsville,Brownsville,TX,78520,3,25.936988,-97.501124,618.0,,19876.0,,,
+4954,Southern Careers Institute-Harlingen,Harlingen,TX,78550,3,26.20385,-97.675281,508.0,,26393.0,,,
+4962,Pima Medical Institute-Houston,Houston,TX,77041,3,29.838306,-95.562287,892.0,,28488.0,,,
+4964,Miller-Motte College-STVT-San Antonio,San Antonio,TX,78216,3,29.35599,-98.4891,557.0,,25797.0,,,
+4965,Concorde Career College-Dallas,Dallas,TX,75243,3,32.91856,-96.741711,615.0,,26986.0,,,0.9455
+4967,Concorde Career College-San Antonio,San Antonio,TX,78229,3,29.49003,-98.582351,521.0,,29048.0,,,1.0
+4975,Milan Institute of Cosmetology-El Paso,El Paso,TX,79936,3,31.749325,-106.300156,293.0,,30625.0,,,
+4976,Universal Technical Institute-Dallas Fort Worth,Irving,TX,75063,3,32.93806,-97.012741,1727.0,,29435.0,,,
+4990,Ogle School Hair Skin Nails-North Dallas,Dallas,TX,75248-1216,3,32.984161,-96.803615,298.0,,23622.0,,,
+5015,Diamonds College,Sherman,TX,75090-2657,3,33.673442,-96.606125,55.0,,22239.0,,,
+5036,Buckner Barber School,Dallas,TX,75217-1775,3,32.737175,-96.684709,30.0,,28791.0,,,
+5040,North American University,Stafford,TX,77477-0000,2,29.646303,-95.588338,453.0,22520.0,,12300.0,12300.0,
+5070,Chamberlain University-Texas,Houston,TX,77041,3,29.838386,-95.560414,2167.0,35342.0,,19629.0,19629.0,0.8571
+5090,Manuel and Theresa's School of Hair Design-Victoria,Victoria,TX,77902-7076,3,28.799901,-96.991589,15.0,,16913.0,,,
+5112,Paul Mitchell the School-Arlington,Arlington,TX,76018-6032,3,32.680899,-97.107997,264.0,,28483.0,,,
+5118,Criswell College,Dallas,TX,75246-1537,2,32.793513,-96.77669,121.0,24744.0,,13350.0,13350.0,1.0
+5121,UCAS University of Cosmetology Arts & Sciences-La Joya,La Joya,TX,78560-4018,3,26.24605,-98.468021,55.0,,21733.0,,,
+5135,Vogue College of Cosmetology-San Antonio Fredericksburg,San Antonio,TX,78201-5035,3,29.462345,-98.523455,109.0,,30310.0,,,
+5136,Vogue College of Cosmetology,San Antonio,TX,78238-4402,3,29.465563,-98.602991,105.0,,,,,
+5146,Rio Grande Valley College,Pharr,TX,78577-2106,3,26.24215,-98.177978,513.0,,26421.0,,,
+5158,Wade Gordon Hairdressing Academy,Amarillo,TX,79109,3,35.186494,-101.873963,162.0,,29700.0,,,
+5166,West Coast University-Dallas,Richardson,TX,75080-2712,3,32.98221,-96.716284,975.0,29530.0,,17090.0,17090.0,
+5169,Ogle School Hair Skin Nails-Denton,Denton,TX,76205-7534,3,33.192334,-97.113213,164.0,,23650.0,,,
+5184,South University-Austin,Round Rock,TX,78681-2300,3,30.479474,-97.689972,288.0,33088.0,,17014.0,17014.0,
+5186,Ogle School Hair Skin Nails-San Antonio,San Antonio,TX,78216,3,29.518311,-98.503686,448.0,,22947.0,,,
+5201,The College of Health Care Professions-Dallas,Dallas,TX,75247,3,32.830186,-96.875021,545.0,,32122.0,,,
+5202,The College of Health Care Professions-Fort Worth,Fort Worth,TX,76137-5021,3,32.816901,-97.311645,832.0,,32774.0,,,
+5206,CyberTex Institute of Technology,Austin,TX,78752,3,30.324403,-97.70303,171.0,,26869.0,,,
+5214,M T Training Center,Grand Prairie,TX,75051,3,32.72,-97.042564,199.0,,20179.0,,,
+5235,Southern Texas Careers Academy,McAllen,TX,78504-2569,3,26.238609,-98.207283,48.0,,20705.0,,,
+5240,Grace School of Theology,Conroe,TX,77384-4894,2,30.205731,-95.472493,184.0,23565.0,,6760.0,6760.0,
+5263,Southern Careers Institute-San Antonio,San Antonio,TX,78238-4114,3,29.4585,-98.627397,772.0,,27367.0,,,
+5272,Cosmetology Academy of Texarkana,Texarkana,TX,75503,3,33.457096,-94.132583,64.0,,18015.0,,,
+5287,DeVry University-Texas,Irving,TX,75063,3,32.934524,-97.012494,84.0,33242.0,,17488.0,17488.0,0.0
+5294,Alamo City Barber College,San Antonio,TX,78250-3227,3,29.52717,-98.639532,145.0,,16519.0,,,
+5298,Texas A&M University-Central Texas,Killeen,TX,76549,1,31.053407,-97.775182,1706.0,11349.0,,6627.0,16419.0,0.9571
+5318,Neecee's Barber College,Abilene,TX,79602,3,32.400984,-99.745008,31.0,,23230.0,,,
+5319,Bella Cosmetology and Barber College,Greenville,TX,75402,3,33.119725,-96.107802,58.0,,29486.0,,,
+5325,Total Transformation Institute of Cosmetology,San Marcos,TX,78666-8115,3,29.882696,-97.920002,70.0,,31180.0,,,
+5346,Barber Institute of Texas,Longview,TX,75602-3456,3,32.46297,-94.732635,63.0,,21951.0,,,
+5354,Yahweh Beauty Academy,Killeen,TX,76543-4153,3,31.112893,-97.700269,33.0,,19781.0,,,
+5367,Ogle School Hair Skin Nails-Stafford,Stafford,TX,77477,3,29.63502,-95.588371,452.0,,24641.0,,,
+5371,University of Phoenix-Texas,Houston,TX,77079,3,29.7837,-95.585258,54.0,,,,,
+5376,University of North Texas at Dallas,Dallas,TX,75241,1,32.659588,-96.803446,2923.0,20965.0,,9518.0,21758.0,0.9361
+5380,Houston Training Schools-Gessner,Houston,TX,77063-0000,3,29.72401,-95.540324,193.0,,11641.0,,,
+5388,The Vocational Nursing Institute Inc,Houston,TX,77065,2,29.903883,-95.587085,35.0,,60371.0,,,1.0
+5410,Salon Boutique Academy,Addison,TX,75001-4399,3,32.954908,-96.841676,156.0,,24989.0,,,
+5411,GA Beauty & Barber School,McAllen,TX,78501-3309,3,26.237585,-98.257166,229.0,,29765.0,,,
+5412,The Recording Conservatory of Austin,Austin,TX,78730-3004,3,30.360236,-97.831161,82.0,,27082.0,,,
+5442,Laredo CHI Academy Beauty School,Laredo,TX,78041-6540,3,27.575732,-99.467036,57.0,,16046.0,,,
+5453,Cortiva Institute-Arlington,Arlington,TX,76017-5818,3,32.6769,-97.119031,108.0,,24269.0,,,
+5454,Tulsa Welding School-Houston,Houston,TX,77060-2100,3,29.950897,-95.413192,1529.0,,35430.0,,,
+5455,Pima Medical Institute-El Paso,El Paso,TX,79915-1525,3,31.773629,-106.383883,673.0,,26682.0,,,
+5469,Wade Gordon Hairdressing Academy-Lubbock,Lubbock,TX,79423-2125,3,33.524818,-101.869638,70.0,,22958.0,,,
+5474,Texas College of Cosmetology-Lubbock,Lubbock,TX,79414-2532,3,33.561435,-101.924031,106.0,,21321.0,,,
+5477,Texas State Technical College,Waco,TX,76705,1,31.639295,-97.08471,8775.0,21059.0,,6969.0,11435.0,
+5490,Florida Career College-Houston,Houston,TX,77090-1111,3,30.022309,-95.431325,1029.0,,39875.0,,,
+5523,Natural Images Beauty College,Clute,TX,77531-3603,3,29.026275,-95.400805,62.0,,29398.0,,,
+5536,Mission Beauty Institute,Mission,TX,78572-4404,3,26.213855,-98.31205,47.0,,12728.0,,,
+5557,Northeast Lakeview College,Universal City,TX,78145,1,29.545802,-98.323246,5277.0,10957.0,,3262.0,14272.0,
+5571,Paul Mitchell the School-Clear Lake,Webster,TX,77598-0000,3,29.527723,-95.126497,136.0,,22284.0,,,
+5581,The College of Health Care Professions-McAllen Campus,McAllen,TX,78504-4398,3,26.239856,-98.234872,670.0,,29890.0,,,
+5622,Ann Webb Skin Institute,Austin,TX,78759-3936,3,30.419687,-97.751895,167.0,,24689.0,,,
+5632,Allgood Beauty Institute,Frisco,TX,75033-4112,3,33.15731,-96.804131,21.0,,29273.0,,,
+5636,Manuel and Theresa's School of Hair Design,Brenham,TX,77833-3033,3,30.176143,-96.387591,7.0,,17338.0,,,
+5639,Peloton College,Arlington,TX,76011-9998,3,32.758324,-97.092451,95.0,,22140.0,,,
+5652,Strand Institute of Beauty & Esthetics,Portland,TX,78374,3,27.878924,-97.319593,71.0,,28459.0,,,
+5663,The Culinary School of Fort Worth,Fort Worth,TX,76116,3,32.724044,-97.428672,68.0,,25810.0,,,1.0
+5667,Miller-Motte College-Edge Tech Academy,Arlington,TX,76010,3,32.708476,-97.060733,103.0,,26543.0,,,
+5677,Mystros Barber Academy,Houston,TX,77090-3300,2,30.014,-95.453049,26.0,,,,,
+5701,Salon Professional Academy of San Antonio,San Antonio,TX,78232-2242,3,29.59369,-98.47,86.0,,19452.0,,,
+5704,Vogue International Academy,Houston,TX,77082,3,29.73076,-95.641271,18.0,,20145.0,,,
+5714,The Salon Professional Academy-Georgetown,Georgetown,TX,78626-5470,3,30.635778,-97.688068,45.0,,19807.0,,,
+5732,Chicago School of Professional Psychology at Dallas,Richardson,TX,75080-2208,2,32.979753,-96.75721,2.0,,,13224.0,13224.0,
+5736,Texas Tech University Health Sciences Center-El Paso,El Paso,TX,79905-2827,1,31.771891,-106.43122,257.0,,,,,
+5738,The College of Health Care Professions-South San Antonio,San Antonio,TX,78221-1474,3,29.355101,-98.525559,340.0,,31785.0,,,
+5756,MCI,McAllen,TX,78501-2702,3,26.199744,-98.22256,111.0,,19423.0,,,
+5767,Montana Barber Institute,El Paso,TX,79938-4655,3,31.763303,-106.265623,21.0,,23061.0,,,
+5774,Houston Barber School,Houston,TX,77073-4400,3,29.966414,-95.415514,221.0,,22739.0,,,
+5779,Deluxe Barber College,San Antonio,TX,78217-2118,3,29.554971,-98.400819,95.0,,25020.0,,,
+5787,Southern Careers Institute-Waco,Waco,TX,76706-3756,3,31.512387,-97.139246,263.0,,23318.0,,,
+5791,Arizona College of Nursing-Dallas,Dallas,TX,75243-1200,3,32.923106,-96.75999,296.0,32261.0,,22826.0,22826.0,1.0
+5799,Evvaylois Academy School of Beauty,Brenham,TX,77833,2,30.148715,-96.388462,14.0,,26700.0,,,
+5800,Avenue Five Institute-South Austin Campus,Austin,TX,78704-3259,3,30.221953,-97.756266,84.0,,28027.0,,,
+5802,Pima Medical Institute-San Antonio,San Antonio,TX,78213,3,29.488708,-98.540716,369.0,,22763.0,,,
+5804,The Southwestern Baptist Theological Seminary,Fort Worth,TX,76115,2,32.681685,-97.348233,288.0,,,9910.0,9910.0,0.732
+5806,Christ Mission College,San Antonio,TX,78254-1000,2,29.543412,-98.70699,47.0,14398.0,,8229.0,8229.0,
+5810,Texas Healthtech Institute,Beaumont,TX,77707-2604,3,30.064641,-94.206012,74.0,,17406.0,,,
+5812,Tonsorial Arts Barber College,Texarkana,TX,75501-3264,3,33.435351,-94.079302,73.0,,28579.0,,,
+5813,Michael's Barber & Hair Stylist Academy,Irving,TX,75062-6016,3,32.838765,-96.978283,54.0,,28218.0,,,
+5833,Austin Career Institute,Austin,TX,78752,3,30.36933,-97.726714,76.0,,25894.0,,,
+5844,Pearlands Innovative School of Beauty,Pearland,TX,77584-7891,3,29.55683,-95.365954,21.0,,23925.0,,,
+5850,The Professional Cosmetology Academy,Laredo,TX,78041-5930,3,27.555981,-99.481765,100.0,,18618.0,,,
+5865,Elite Welding Academy,Houston,TX,77087-2904,3,29.700719,-95.298611,20.0,,27566.0,,,
+5898,CTK Healthcare & Career Institute,Irving,TX,75062-7861,3,32.854097,-96.993287,61.0,,8884.0,,,
+5901,Institute of Allied Healthcare,San Antonio,TX,78229-4538,3,29.507147,-98.570242,25.0,,7700.0,,,
+5910,Abilene Christian University-Undergraduate Online,Addison,TX,75001,2,32.977065,-96.826833,766.0,19042.0,,14520.0,14520.0,0.9915
+5912,Ogle School Hair Skin Nails-Willowbrook,Houston,TX,77070-5656,3,29.961825,-95.550032,406.0,,23948.0,,,
+5914,Galen Health Institutes-Austin Campus,Austin,TX,78781-2301,3,30.476575,-97.690907,626.0,30546.0,,15800.0,15800.0,
+5919,Mei Barber School,Brownsville,TX,78520-5472,3,25.907884,-97.505114,107.0,,9026.0,,,
+5924,Universal Technical Institute-West Texas,Austin,TX,78753-9742,3,30.415828,-97.660482,434.0,,29948.0,,,
+5929,Barber Education Academy,Laredo,TX,78041-6039,3,27.555745,-99.48055,40.0,,,,,
+5930,Legends Barber College,Lufkin,TX,75904-3105,3,31.331903,-94.754951,24.0,,10000.0,,,
+5932,Barbers Trade School,Beaumont,TX,77701-3308,3,30.081479,-94.097718,11.0,,20085.0,,,
+5933,Top of the Line Barber School,San Antonio,TX,78218-2109,3,29.508769,-98.371419,86.0,,28353.0,,,
+5940,RCCGNA Seminary,Greenville,TX,75401-7614,2,33.146603,-96.238771,36.0,10300.0,,6800.0,6800.0,0.959
+5980,Premier Barber School,Houston,TX,77088-2518,3,29.89282,-95.480589,26.0,,,,,
+5984,Galen Health Institutes-Houston,Houston,TX,77041-8241,3,29.839951,-95.562419,0.0,,,66120.0,66120.0,
+6162,Columbia College - Fort Worth,Fort Worth,TX,76127-1188,2,,,,,,8496.0,8496.0,
+6179,Columbia College - Mesquite,Mesquite,TX,75150,2,,,,,,8496.0,8496.0,
+6186,Columbia College - Eastfield Pleasant Grove,Dallas,TX,75217,2,,,,,,8496.0,8496.0,
+6217,Culinary Institute of America San Antonio,San Antonio,TX,78215,2,,,,,,35860.0,35860.0,
+6257,Huston - Tillotson University - Center for Entrepreneurship and Innova,Austin,TX,78702-2753,2,,,,,,28230.0,28230.0,
+6258,San Jacinto College-North Campus,Houston,TX,77049-4599,1,,,,,,1872.0,5040.0,
+6259,San Jacinto College-South Campus,Houston,TX,77089-6099,1,,,,,,1872.0,5040.0,
+6260,San Jacinto Community College District - Generation Park Campus,Houston,TX,77044-0000,1,,,,,,1872.0,5040.0,
+6261,Texas A & M University Health Science Center,Bryan,TX,77807,1,,,,,,13239.0,40139.0,
+6335,ECPI University - San Antonio,San Antonio,TX,78229-3642,3,,,,,,18484.0,18484.0,
+6338,Nuvani Institute-Uvalde,Uvalde,TX,78801-5242,3,,,,,,,,
+6339,Nuvani Institute-Del Rio,Del Rio,TX,78840-5865,3,,,,,,,,
+6340,Nuvani Institute-South Campus,Austin,TX,78745-5865,3,,,,,,,,
+6360,Texas Barber College - Branch Campus #1,Dallas,TX,75241,3,,,,,,,,
+6361,Texas Barber College - Branch Campus #2,Dallas,TX,75228,3,,,,,,,,
+6362,Texas Barber College - Branch Campus #5,Houston,TX,77022,3,,,,,,,,
+6385,CCI Training Center,Dallas,TX,75231,3,,,,,,,,
+6391,Academy of Hair Design - Austin,Austin,TX,78741-1338,3,,,,,,,,
+6419,Strayer University-Northwest Houston,Houston,TX,77064-5768,3,,,,,,13515.0,13515.0,
+6420,Strayer University-Cedar Hill,Cedar Hill,TX,75104-5768,3,,,,,,13515.0,13515.0,
+6421,Strayer University-North Dallas,Farmers Branch,TX,75234-5768,3,,,,,,13515.0,13515.0,
+6422,Strayer University-San Antonio,San Antonio,TX,78216-5768,3,,,,,,13515.0,13515.0,
+6423,Strayer University - Northwest Houston Campus,Houston,TX,77064-5768,3,,,,,,13515.0,13515.0,
+6431,Relay Graduate School of Education - Houston,Houston,TX,77036,2,,,,,,,,
+6437,Relay Graduate School of Education - San Antonio,San Antonio,TX,78212,2,,,,,,,,
+6438,Relay Graduate School of Education - Dallas-Fort Worth,Dallas,TX,75232,2,,,,,,,,
